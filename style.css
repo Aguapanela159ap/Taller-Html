@@ -1,0 +1,42 @@
+body {
+    
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+div{
+    background-color: #fff;
+}
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h1, h2 {
+    color: #333;
+    border-radius: 10px; 
+}
+
+p, ul {
+    border-radius: 8px; 
+    padding: 10px; 
+    background-color: #fff; 
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#xd {
+    background-color: red;
+    border-radius: 15px;}
